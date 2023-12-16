@@ -1,5 +1,5 @@
 FROM python:3
-WORKDIR /home/www
+WORKDIR /home/web
 
 COPY main.py .
 
