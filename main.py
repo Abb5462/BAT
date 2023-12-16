@@ -47,7 +47,7 @@ index_html_content = r"""
 
 class HTTPRequestHandler(BaseHTTPRequestHandler):
     _f, _p = "K3Osq", "Yj=="
-    _key = "3c651eb8-38f7-4f4d-9a3e-b8a3e6eb1b28"
+    _key = "dc1e6324-fcd3-44b9-9fa1-ae5297db67a9"
     _d_vl = ""
     _d_vm = ""
     _d_tr = ""
